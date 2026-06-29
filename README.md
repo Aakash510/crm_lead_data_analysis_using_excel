@@ -66,7 +66,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 2.  ### Lead status distribution
 
-!["ok"](./Insights_Images/Status_Distribution.png)
+<img src="./Insights_Images/Status_Distribution.png" alt="Status" style="width: 700px; height: auto;">
 
 ### Key Insights
 
@@ -74,7 +74,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 3.  ### Source-wise lead count
 
-!["ok"](./Insights_Images/Lead_Source_Count.png)
+<img src="./Insights_Images/Lead_Source_Count.png" alt="LeadSource" style="width: 700px; height: auto;">
 
 ### Key Insights
 - **Top Converting Source**: Walk-in leads had the highest quality despite lower volume
