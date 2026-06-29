@@ -60,18 +60,32 @@ Aggregated metrics and KPIs:
 
 ### 4. `Dashboard & Pivot Table`
 Visual dashboard built with Excel pivot tables and charts:
-- Conversion rate card
-- Lead status distribution
-- Source-wise lead count
-- City-wise lead distribution
-- Monthly trend (Jan–Mar 2024)
-- Agent performance pivot
+1.  Conversion rate card
 
 ---
 
-## 🔍 Key Insights
+2.  ### Lead status distribution
 
-- **Top Converting Source**: Referral leads had the highest quality despite lower volume
+!["ok"](./Insights_Images/Status_Distribution.png)
+
+### Key Insights
+
+---
+
+3.  ### Source-wise lead count
+
+!["ok"](./Insights_Images/Lead_Source_Count.png)
+
+### Key Insights
+- **Top Converting Source**: Walk-in leads had the highest quality despite lower volume
+---
+
+4.  City-wise lead distribution
+5.  Monthly trend (Jan–Mar 2024)
+6. Agent performance pivot
+
+
+### Key Insights
 - **Best Performing Agent**: Determined by conversion % (see Summary sheet)
 - **Top Cities by Volume**: Delhi, Indore, Hyderabad, Pune, Bangalore
 - **Monthly Trend**: Jan 2024 had the highest lead volume (168 leads)
