@@ -58,9 +58,20 @@ Aggregated metrics and KPIs:
 - Leads by source (Google Ads, Meta Ads, Referral, Walk-in, IVR, Organic)
 - Agent-wise performance table with conversion rates and rankings
 
-### 4. `Dashboard & Pivot Table`
+---
+
+### 4. `Dashboard & Key Insights`
+
 Visual dashboard built with Excel pivot tables and charts:
-1.  Conversion rate card
+
+1. ### Executive KPI Summary Card
+
+<img src="./Insights_Images/Kpi_card.png" alt="Status" style="width: 700px; height: auto;">
+
+### Key Insights
+
+**Total Volume:** Out of **500** total leads processed in the database, the sales funnel successfully closed **184** conversions.
+**Efficiency Benchmark:** This establishes an overall baseline Conversion Rate of **36.80%** across all marketing channels and regions
 
 ---
 
@@ -70,26 +81,44 @@ Visual dashboard built with Excel pivot tables and charts:
 
 ### Key Insights
 
+**Analysis:** The pipeline shows a strong 37% Conversion Rate, demonstrating high-intent leads and effective sales closing scripts. With 27% of leads remaining "Open", there is a clear, immediate opportunity for automated email/SMS nurturing campaigns to recapture pending revenue.
+
 ---
 
-3.  ### Source-wise lead count
+3.  ### Marketing Channel Performance
 
 <img src="./Insights_Images/Lead_Source_Count.png" alt="LeadSource" style="width: 700px; height: auto;">
-
+    
 ### Key Insights
-- **Top Converting Source**: Walk-in leads had the highest quality despite lower volume
+
+**Analysis:** Lead generation is well-distributed across channels, with direct Walk-ins (75) and Referrals (73) driving the highest volumes, closely followed by Google Ads (71). \
+This highlights strong organic/offline brand equity alongside viable paid digital performance.
+
 ---
 
-4.  City-wise lead distribution
-5.  Monthly trend (Jan–Mar 2024)
-6. Agent performance pivot
+4. ###  Geographic lead distribution
 
+<img src="./Insights_Images/Lead_Source_vs_City.png" alt="LeadSource" style="width: 700px; height: auto;">
 
-### Key Insights
-- **Best Performing Agent**: Determined by conversion % (see Summary sheet)
-- **Top Cities by Volume**: Delhi, Indore, Hyderabad, Pune, Bangalore
-- **Monthly Trend**: Jan 2024 had the highest lead volume (168 leads)
-- **Data Quality Issues Found**: ~20% of raw records had at least one formatting inconsistency
+**Analysis:** Indore (56) and Delhi (55) emerged as the primary geographical hubs for lead acquisition, closely followed by Pune (49). \
+This data helps regional sales managers optimize local territory mapping and ad targeting.
+
+---
+5. ### Lead Conversion Trend (Month-over-Month)
+
+<img src="./Insights_Images/Lead_Distribution_Month_Wise.png" alt="LeadSource" style="width: 700px; height: auto;">
+
+ ### Key Insights
+ 
+ **Analysis:** Shows a slight downward trend in total inbound leads from January (168) to March (142).
+---
+
+6. ### 🎛️ Interactive Dashboard Controls (Excel Slicers)
+
+<img src="./Insights_Images/Slicers.png" alt="LeadSource" style="width: 700px; height: auto;">
+ 
+**Dynamic Calculations:** Clicking a **slicer** automatically recalculates the charts in real-time—allowing users to drill down into specific questions, \
+such as: "What is the conversion rate strictly for Google Ads in Indore?"
 
 ---
 
@@ -127,7 +156,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 ## 👤 Author
 
-**[Your Name]**
+**[Aakash Chourasiya]**
 - 📧 aakashchourasiya81@gmail.com
 - 🎓 SKGI, Indore
 - 📅 Submitted: March 2026
