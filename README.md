@@ -66,7 +66,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 1. ### Executive KPI Summary Card
 
-<img src="./Insights_Images/Kpi_card.png" alt="Status" style="width: 700px; height: auto;">
+<img src="./Insights_Images/KPI_Card.png" alt="Status" style="width: 300px; height: auto;">
 
 ### Key Insights
 
@@ -75,9 +75,9 @@ Visual dashboard built with Excel pivot tables and charts:
 
 ---
 
-2.  ### Lead status distribution
+2.  ### Lead status pipeline health
 
-<img src="./Insights_Images/Status_Distribution.png" alt="Status" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Status_Pipeline.png" alt="Status" style="width: 700px; height: auto;">
 
 ### Key Insights
 
@@ -87,7 +87,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 3.  ### Marketing Channel Performance
 
-<img src="./Insights_Images/Lead_Source_Count.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Marketing_Channel_Performance.png" alt="LeadSource" style="width: 700px; height: auto;">
     
 ### Key Insights
 
@@ -98,7 +98,7 @@ This highlights strong organic/offline brand equity alongside viable paid digita
 
 4. ###  Geographic lead distribution
 
-<img src="./Insights_Images/Lead_Source_vs_City.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Geographical_Lead_Distribution.png" alt="LeadSource" style="width: 700px; height: auto;">
 
 **Analysis:** Indore (56) and Delhi (55) emerged as the primary geographical hubs for lead acquisition, closely followed by Pune (49). \
 This data helps regional sales managers optimize local territory mapping and ad targeting.
@@ -106,7 +106,7 @@ This data helps regional sales managers optimize local territory mapping and ad 
 ---
 5. ### Lead Conversion Trend (Month-over-Month)
 
-<img src="./Insights_Images/Lead_Distribution_Month_Wise.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Lead_Convertion_Trend_Month_Wise.png" alt="LeadSource" style="width: 700px; height: auto;">
 
  ### Key Insights
  
@@ -115,7 +115,7 @@ This data helps regional sales managers optimize local territory mapping and ad 
 
 6. ### 🎛️ Interactive Dashboard Controls (Excel Slicers)
 
-<img src="./Insights_Images/Slicers.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Slicers.png" alt="LeadSource" style="width: 300px; height: 500px;">
  
 **Dynamic Calculations:** Clicking a **slicer** automatically recalculates the charts in real-time—allowing users to drill down into specific questions, \
 such as: "What is the conversion rate strictly for Google Ads in Indore?"
