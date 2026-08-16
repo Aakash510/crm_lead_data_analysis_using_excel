@@ -1,6 +1,6 @@
 # 📊 Real Estate CRM Lead Management & Analysis — 2024
 
-> An MIS (Management Information Systems) assignment project analyzing 500 CRM leads for a real estate business. Covers end-to-end data cleaning, lead funnel tracking, agent performance evaluation, and an interactive Excel dashboard with pivot tables.
+> An MIS (Management Information Systems) project analyzing 500 CRM leads for a real estate business. Covers end-to-end data cleaning, lead funnel tracking, agent performance evaluation, and an interactive Excel dashboard with pivot tables.
 
 ---
 
@@ -16,7 +16,7 @@ crm-lead-analysis_using_excel/
 │   ├── summary.png
 │   └── pivot_table.png
 └── report/                       # (Optional) Written report / PDF
-    └── MIS_Analysis_Report.pdf
+    └── CRM_Lead_MIS_Analysis_Report.pdf
 ```
 
 ---
@@ -77,7 +77,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 2.  ### Lead status pipeline health
 
-<img src="./Insights_Images/Status_Pipeline.png" alt="Status" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Status_Pipeline.png" alt="Status" style="width: 600px; height: auto;">
 
 ### Key Insights
 
@@ -87,7 +87,7 @@ Visual dashboard built with Excel pivot tables and charts:
 
 3.  ### Marketing Channel Performance
 
-<img src="./Insights_Images/Marketing_Channel_Performance.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Marketing_Channel_Performance.png" alt="LeadSource" style="width: 600px; height: auto;">
     
 ### Key Insights
 
@@ -98,7 +98,7 @@ This highlights strong organic/offline brand equity alongside viable paid digita
 
 4. ###  Geographic lead distribution
 
-<img src="./Insights_Images/Geographical_Lead_Distribution.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Geographical_Lead_Distribution.png" alt="LeadSource" style="width: 600px; height: auto;">
 
 **Analysis:** Indore (56) and Delhi (55) emerged as the primary geographical hubs for lead acquisition, closely followed by Pune (49). \
 This data helps regional sales managers optimize local territory mapping and ad targeting.
@@ -106,7 +106,7 @@ This data helps regional sales managers optimize local territory mapping and ad 
 ---
 5. ### Lead Conversion Trend (Month-over-Month)
 
-<img src="./Insights_Images/Lead_Convertion_Trend_Month_Wise.png" alt="LeadSource" style="width: 700px; height: auto;">
+<img src="./Insights_Images/Lead_Convertion_Trend_Month_Wise.png" alt="LeadSource" style="width: 600px; height: auto;">
 
  ### Key Insights
  
@@ -132,10 +132,10 @@ such as: "What is the conversion rate strictly for Google Ads in Indore?"
 
 ---
 
-## 📚 Assignment Context
+## 📚 Project Context
 
 - **Subject**: Management Information Systems (MIS)
-- **Assignment Type**: Data Analysis & Reporting
+- **Porject Type**: Data Analysis & Reporting
 - **Domain**: Real Estate CRM
 - **Dataset Size**: 500 leads across 10 columns
 
@@ -158,8 +158,8 @@ such as: "What is the conversion rate strictly for Google Ads in Indore?"
 
 **[Aakash Chourasiya]**
 - 📧 aakashchourasiya81@gmail.com
-- 🎓 SKGI, Indore
-- 📅 Submitted: March 2026
+- 🏢 Magpie Engineering Pvt. Ltd, Indore
+- 📅 Submitted: Jan 2026
 
 ---
 
